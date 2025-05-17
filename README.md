@@ -10,7 +10,7 @@ Real-time, interactive exploration of how artificial neurons connect, learn, and
 
 ## 🚀 Overview
 
-**Synaptix** is a dynamic web-based tool that allows you to **visualize, interact with, and understand** the training and behavior of neural networks — in real-time. Whether you're a curious student, a CS educator, or a seasoned AI practitioner, Synaptix opens the black box of deep learning through vivid, step-by-step animations and intuitive explanations.
+**Synaptix** is a dynamic web-based tool that allows you to **visualize, interact with, and understand** the training and behavior of neural networks in real-time. Whether you're a curious student, a CS educator, or a seasoned AI practitioner, Synaptix opens the black box of deep learning through vivid, step-by-step animations and intuitive explanations.
 
 > _“What a neuron sees, Synaptix shows.”_
 
