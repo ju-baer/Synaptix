@@ -3,6 +3,10 @@
 Real-time, interactive exploration of how artificial neurons connect, learn, and evolve.
 
 ---
+![Synaptix Demo](image.png)
+
+*This is how Synaptix looks in action.*
+
 
 ## 🚀 Overview
 
@@ -33,12 +37,10 @@ Real-time, interactive exploration of how artificial neurons connect, learn, and
 
 ---
 
-## 🧪 Demo
-
-Or run locally:
+## 🧪Run locally:
 
 ```bash
-git clone https://github.com/yourusername/synaptix.git
-cd synaptix
+git clone https://github.com/ju-baer/Synaptix
+cd Synaptix
 npm install
 npm run dev
