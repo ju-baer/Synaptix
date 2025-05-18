@@ -3,6 +3,7 @@
 Real-time, interactive exploration of how artificial neurons connect, learn, and evolve.
 
 ---
+## 🖼️ Preview
 ![Synaptix Demo](image.png)
 
 *This is how Synaptix looks in action.*
