@@ -37,8 +37,12 @@ Real-time, interactive exploration of how artificial neurons connect, learn, and
 | TailwindCSS / CSS3    | Firebase (for session save)| MathJax (for math rendering)|
 
 ---
+## 🚀 Getting Started
 
-## 🧪Run locally:
+### 🌐 Live Demo
+Check this project out at https://synaptix-xi.vercel.app/
+
+### 🧪Run locally:
 
 ```bash
 git clone https://github.com/ju-baer/Synaptix
